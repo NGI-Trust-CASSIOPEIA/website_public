@@ -3,33 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ngi-trust-cassiopeia.github.io/website_public/about/</loc>
+    <loc>/website_public/about/</loc>
   </url>
   
   <url>
-    <loc>https://ngi-trust-cassiopeia.github.io/website_public/</loc>
+    <loc>/website_public/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ngi-trust-cassiopeia.github.io/website_public/categories/</loc>
+    <loc>/website_public/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ngi-trust-cassiopeia.github.io/website_public/challenges/</loc>
+    <loc>/website_public/challenges/</loc>
   </url>
   
   <url>
-    <loc>https://ngi-trust-cassiopeia.github.io/website_public/partners/</loc>
+    <loc>/website_public/partners/</loc>
   </url>
   
   <url>
-    <loc>https://ngi-trust-cassiopeia.github.io/website_public/privacy/</loc>
+    <loc>/website_public/privacy/</loc>
   </url>
   
   <url>
-    <loc>https://ngi-trust-cassiopeia.github.io/website_public/tags/</loc>
+    <loc>/website_public/tags/</loc>
     <priority>0</priority>
   </url>
   
