@@ -2,38 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CASSIOPEIA</title>
-    <link>/website_public/</link>
+    <link>https://www.cassiopeia.id/</link>
     <description>Recent content on CASSIOPEIA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/website_public/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.cassiopeia.id/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>/website_public/about/</link>
+      <title></title>
+      <link>https://www.cassiopeia.id/contact/_list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/website_public/about/</guid>
+      <guid>https://www.cassiopeia.id/contact/_list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.cassiopeia.id/privacy-policy/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cassiopeia.id/privacy-policy/privacy-policy/</guid>
+      <description>Privacy Policy function collapseSection(id){var x=document.getElementById(id);if (x.className.indexOf(&#34;w3-show&#34;)==-1){x.className+=&#34; w3-show&#34;;}else{x.className=x.className.replace(&#34; w3-show&#34;, &#34;&#34;);}}  body, h1, h2, h3, h4, h5, h6, p { font-family: &#34;Segoe UI&#34;, Arial, sans-serif; color: #555; } p, li { font-size: 18px; color: #555; } tr, td { border: 1px solid #7da2a9; /*#8693ac;*/ font-size: 18px; font-family: &#34;Segoe UI&#34;, Arial, sans-serif; color: #555; vertical-align:top; } .noborders { border-collapse: collapse; border: 0px; vertical-align:top; } h1 { font-size: 36px; font-weight: 500; font-family: &#34;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.cassiopeia.id/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cassiopeia.id/about/</guid>
       <description>The CASSIOPEIA project investigates how open-standard/open-source technologies can be used to create usable and transparent architectures enabling device owners to selectively collect, share and retain data from users, while delegating control of device features to the users from whom data is being obtained. Selective sharing is a critical dimension of privacy: enhancing user choice, autonomy, participation, and trust. It is the technical embodiment of respect for social contexts in information sharing.</description>
     </item>
     
     <item>
       <title>Challenges</title>
-      <link>/website_public/challenges/</link>
+      <link>https://www.cassiopeia.id/challenges/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/website_public/challenges/</guid>
+      <guid>https://www.cassiopeia.id/challenges/</guid>
       <description>We base this project in a use case called the ‘Airbnb problem,’ where a host wants to rent an apartment containing IoT devices to a guest - this involves the delegation of device functions to the guest and management of the guest’s collected personal data. Smart homes include a range of devices for sensing and automation purposes: thermostats, video-enabled door locks, robot vacuum cleaners, environmental sensors, shutters and lights, security cameras and the like.</description>
     </item>
     
     <item>
       <title>Partners</title>
-      <link>/website_public/partners/</link>
+      <link>https://www.cassiopeia.id/partners/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/website_public/partners/</guid>
+      <guid>https://www.cassiopeia.id/partners/</guid>
       <description>The CASSIOPEIA consortium is composed by a multidisciplinary team, including researchers from Instituto de Telecomunicações - Aveiro, from Birmingham City University and Dr. Gilad Rosner.
 The IT Aveiro team has a long track record of working in international projects, developing testbeds and demonstrators, solutions for IoT, frameworks and architectures.
 The BCU team has been developing work in the wider cyber security with particular focus on data protection. The lead of BCU team is part of the Kantara Initiative WG developing the next version of the Consent Receipts spec, which this project will use, extend and re-contribute to the SDO.</description>
@@ -41,10 +59,10 @@ The BCU team has been developing work in the wider cyber security with particula
     
     <item>
       <title>Privacy Policy</title>
-      <link>/website_public/privacy/</link>
+      <link>https://www.cassiopeia.id/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/website_public/privacy/</guid>
+      <guid>https://www.cassiopeia.id/privacy/</guid>
       <description>Last updated: January 12, 2021
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.</description>

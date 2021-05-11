@@ -3,33 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/website_public/about/</loc>
+    <loc>https://www.cassiopeia.id/contact/_list/</loc>
   </url>
   
   <url>
-    <loc>/website_public/</loc>
+    <loc>https://www.cassiopeia.id/privacy-policy/privacy-policy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cassiopeia.id/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cassiopeia.id/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_public/categories/</loc>
+    <loc>https://www.cassiopeia.id/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_public/challenges/</loc>
+    <loc>https://www.cassiopeia.id/challenges/</loc>
   </url>
   
   <url>
-    <loc>/website_public/partners/</loc>
+    <loc>https://www.cassiopeia.id/contact/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website_public/privacy/</loc>
+    <loc>https://www.cassiopeia.id/partners/</loc>
   </url>
   
   <url>
-    <loc>/website_public/tags/</loc>
+    <loc>https://www.cassiopeia.id/privacy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cassiopeia.id/privacy-policy/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cassiopeia.id/tags/</loc>
     <priority>0</priority>
   </url>
   
