@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacy-policies on CASSIOPEIA</title>
+    <link>https://www.cassiopeia.id/privacy-policy/</link>
+    <description>Recent content in Privacy-policies on CASSIOPEIA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.cassiopeia.id/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://www.cassiopeia.id/privacy-policy/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cassiopeia.id/privacy-policy/privacy-policy/</guid>
+      <description>Privacy Policy function collapseSection(id){var x=document.getElementById(id);if (x.className.indexOf(&#34;w3-show&#34;)==-1){x.className+=&#34; w3-show&#34;;}else{x.className=x.className.replace(&#34; w3-show&#34;, &#34;&#34;);}}  body, h1, h2, h3, h4, h5, h6, p { font-family: &#34;Segoe UI&#34;, Arial, sans-serif; color: #555; } p, li { font-size: 18px; color: #555; } tr, td { border: 1px solid #7da2a9; /*#8693ac;*/ font-size: 18px; font-family: &#34;Segoe UI&#34;, Arial, sans-serif; color: #555; vertical-align:top; } .noborders { border-collapse: collapse; border: 0px; vertical-align:top; } h1 { font-size: 36px; font-weight: 500; font-family: &#34;</description>
+    </item>
+    
+  </channel>
+</rss>
